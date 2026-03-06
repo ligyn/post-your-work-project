@@ -24,7 +24,7 @@ def get_filters():
             city = ""
 
     # get user input for month (all, january, february, ... , june)
-
+    month = input("Specify a month (all, january, february, march, april, may, june): ")
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
