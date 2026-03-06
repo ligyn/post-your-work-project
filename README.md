@@ -91,10 +91,6 @@ Type **no** to exit the program
 
 Contributions are welcome. Use the comment section on GitHub.
 
-## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
 ## Date created
 
 Created on March 2026.
